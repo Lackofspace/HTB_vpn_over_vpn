@@ -1,5 +1,5 @@
 # HTB_vpn_over_vpn
-For those who has established successful connection to HTB server but has no response form it
+For those who has established successful connection to HTB server but has no response from it
 
 ## That is one of the ways to solve such kind of problem with connection to HTB. It was tested on Kali Linux 2025.2
 First of all, run your vpn. It must create new interface. For this example it will be tun0.
